@@ -1,7 +1,6 @@
 - 👋 Hi, I’m J0hnBless
 - 👀 I’m interested in work and learn more about codes
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: You can contact me on my email(joaobancos233@gmail.com)
 
 <!---
